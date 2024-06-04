@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pkeguis.github.io/sitemap.html
+Sitemap: https://pkeguis.github.io/app/sitemap.html
+Sitemap: https://pkeguis.github.io/assets/sitemap.html
+Sitemap: https://pkeguis.github.io/includes/sitemap.html
+Sitemap: https://pkeguis.github.io/src/sitemap.html
